@@ -14,12 +14,12 @@ To get started with this project, follow these easy steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/identifying-dog-poo.git
+   git clone https://github.com/yourusername/deepdoo.git
    ```
 
 2. Install the required dependencies:
    ```bash
-   pip install dog-detection-library
+   "TO BE ADDED"
    ```
 
 ## 🛑 How to Use ##
@@ -29,7 +29,7 @@ Here's a quick guide on how to use our tool:
 1. Open your terminal and navigate to the project directory.
 2. Run the detection script:
    ```bash
-   python detect_dog_poo.py
+   "TO BE ADDED"
    ```
 
 And voilà! Our tool will help identify those pesky dog poos with ease.
